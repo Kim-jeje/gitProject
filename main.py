@@ -17,7 +17,7 @@
 
 if __name__ == '__main__':
     print('hello, Git!')
-    print('hello, GitHub!')
+    # print('hello, GitHub!')
 
 print(
     '''
